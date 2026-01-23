@@ -1,1 +1,1 @@
-.metadata/
+target/ .metadata/ *.log .classpath .project .settings
